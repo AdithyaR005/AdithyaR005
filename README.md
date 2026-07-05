@@ -20,6 +20,9 @@
 ### 🔗 Connect with Me
 
 <p align="left">
+  <a href="https://adithya-r-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/adithya-r-193ba6286" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -52,8 +55,9 @@
 
 ### 🚀 Current Projects
 
-- 🤖 **[AI Resume Analyzer](https://github.com/AdithyaR005/resume-analyzer)** — A local AI-powered web app that analyzes resumes using Ollama (Qwen2.5:1.5b), FastAPI backend, and a dark-themed glassmorphism UI. Supports PDF uploads and runs fully offline.
-- 🔧 More automation + AI projects coming soon...
+- 🎨 **[Personal Portfolio](https://adithya-r-portfolio.vercel.app)** — A modern, animated developer portfolio built with React, Tailwind CSS, and custom scroll/particle animations. Showcases my projects, skills, certifications, and resume.
+- 🤖 **AI Resume Analyzer** — A local AI-powered web app that analyzes resumes using Ollama (Qwen2.5:1.5b), FastAPI backend, and a dark-themed glassmorphism UI. Runs fully offline.
+- 🛠️ **[Sun Direct](https://sundirect.vercel.app/)** — A responsive business landing page for a Sun Direct DTH & electronics service shop, deployed live on Vercel.
 
 ---
 
